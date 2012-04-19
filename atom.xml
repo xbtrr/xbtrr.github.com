@@ -1,16 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Rujun Sun]]></title>
   <link href="http://xbtrr.github.com/atom.xml" rel="self"/>
   <link href="http://xbtrr.github.com/"/>
-  <updated>2012-04-19T15:36:29+08:00</updated>
+  <updated>2012-04-19T15:49:04+08:00</updated>
   <id>http://xbtrr.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[Rujun Sun]]></name>
+    <email><![CDATA[rsrs.sunrj@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Test of Latex]]></title>
+    <link href="http://xbtrr.github.com/blog/2012/04/19/test-of-latex/"/>
+    <updated>2012-04-19T15:45:00+08:00</updated>
+    <id>http://xbtrr.github.com/blog/2012/04/19/test-of-latex</id>
+    <content type="html"><![CDATA[<script type="math/tex; mode=display">\LaTeX</script>
+
+<script type="math/tex; mode=display">\Delta x \Delta p \geq \frac{\hbar}{2}</script>
+]]></content>
+  </entry>
   
 </feed>
